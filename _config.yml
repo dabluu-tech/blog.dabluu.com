@@ -22,9 +22,9 @@ title: daBluu Blogs
 email: hello@dabluu.com
 description: >- # this means to ignore newlines until "baseurl:"
   daTrue EV charging network for India
-domain: blog.dabluu.com.github,.io
-baseurl: "blog.dabluu.com" # the subpath of your site, e.g. /blog
-url: "https://blog.dabluu.com.github,.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: blogs.dabluu.com
+baseurl: "blogs.dabluu.com" # the subpath of your site, e.g. /blog
+url: "https://blogs.dabluu.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
