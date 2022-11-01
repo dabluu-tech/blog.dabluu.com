@@ -4,8 +4,6 @@ title:  "Why charger/charging standardisation is important for EV ecosystem."
 date:   2022-11-01 13:24:37 +0530
 categories: EV blogs
 ---
-# Why charger/charging standardisation is important for EV ecosystem.
-
   
 
 Remember those days where we needed to carry a charger for our mobile phones where ever we travelled, The charge anxiety of phones where real that time. The reason was simple, even though all phones where charged using the same 220v/110v and the output was 5v. The connectors where different. Samsung used their proprietary charger and Nokia used their own and Sony used one which they designed themselves, all these where not compatible to each other. This disparity resulted in lot many brands with lot many types of chargers. This resulted in mobile phone users not sure about whether they will be able to find a suitable connector (not charger) if they forget to carry their own charger. Mobile phone charger adaptors where a common sight those days.
